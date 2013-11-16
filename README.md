@@ -1,4 +1,4 @@
-CSE 167 - Introduction to Computer GraphicsCSE
+CSE 167 - Introduction to Computer Graphics
 Project 5: scenegraph
 ==========
 
