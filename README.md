@@ -7,7 +7,7 @@ Project 5: Scene Graph
 Renders an army of ```army_size x army_size``` robots with default walking animation and prints out FPS. ```army_size``` is found at the top of ```Shape.cpp```. Upon pressing 'c', toggle object-level culling with bounding spheres. Objects can be rotated with mouse left-click and scaled with mouse right-click. Objects can be moved using keyboard commands as in cube but not advisable.
 
 Mouse:
-* left-click: Rotate army of robots via ```trackballRotation```
+* left-click: Rotate army of robots via ```trackballRotation``` in ```Shape.cpp```
 * right-click: Scale army of robots
 
 Culling:
