@@ -1,5 +1,5 @@
 CSE 167 - Introduction to Computer Graphics
-Project 5: scenegraph
+Project 5: Scene Graph
 ==========
 
 (See full project specifications here: http://ivl.calit2.net/wiki/index.php/Project5Fall13)
