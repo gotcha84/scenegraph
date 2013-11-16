@@ -11,7 +11,8 @@ Mouse:
 * right-click: scale army of robots
 
 Culling:
-* c: toggle culling. Note: This is a bit buggy because the Camera matrix is not being properly updated when trackballRotation updates ModelView matrix.
+* c: toggle culling
+Note: This is a bit buggy because the Camera matrix is not being properly updated when trackballRotation updates ModelView matrix.
 
 
 ![10x10 army of walking robots with no culling](scenegraph.png "10x10 army of walking robots with no culling")
